@@ -11,4 +11,8 @@ public class FirstLogicClass {
     public static void betaLogic(){
         System.out.println("betalogic");
     }
+
+    public static void moreBetaLogic(){
+        System.out.println("morebetalogic");
+    }
 }

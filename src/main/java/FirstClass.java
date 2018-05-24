@@ -7,5 +7,8 @@ public class FirstClass {
 
         System.out.println("WOW NOW BETA");
 
+
+        FirstLogicClass.betaLogic();
+        FirstLogicClass.anotherLogic();
     }
 }
