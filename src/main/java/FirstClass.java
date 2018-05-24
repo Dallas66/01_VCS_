@@ -6,6 +6,7 @@ public class FirstClass {
         System.out.println("Lets start");
 
         System.out.println("WOW NOW BETA");
+        System.out.println("WOW NOW BETA");
 
 
         FirstLogicClass.betaLogic();
