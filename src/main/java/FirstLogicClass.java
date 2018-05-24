@@ -7,4 +7,8 @@ public class FirstLogicClass {
     public static void anotherLogic(){
         System.out.println("logic");
     }
+
+    public static void betaLogic(){
+        System.out.println("betalogic");
+    }
 }
